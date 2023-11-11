@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CClassleader" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAhAAAAAAAAAABAEAEABAAAAQAQAAABAA=</HashCode>
+      <FileName>CClassleader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClassroom" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAYAAUAAAIAAAAgAAAAAQBEACAFAAAAIAABAAA=</HashCode>
+      <FileName>CClassroom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClasssports" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIABAAAAAAAAAABAAAAQAAAAAAAA=</HashCode>
+      <FileName>CClasssports.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClassstudy" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAAAAAAAAAAAAACABAAAAQAAAABAAA=</HashCode>
+      <FileName>CClassstudy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClassCadre" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAQgAAAAAAA=</HashCode>
+      <FileName>CClassCadre.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CList" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAEAQAAAAAAQAAAAAA=</HashCode>
+      <FileName>CList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMoveList" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMoveList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNotice" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACgAAAAAAAgAAAAAAAgAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>CNotice.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudent" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IGAYAEIAABIAQgAQIgUIAAYAAIAEABAHAAAAwEAAJAA=</HashCode>
+      <FileName>CStudent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStudy" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAQAAAAAAAA=</HashCode>
+      <FileName>CStudy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeacher" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CTeacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeacherBase" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAQAAAAQAAAAEAAAAAAQAAAABAFA=</HashCode>
+      <FileName>CTeacherBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGuidanceCounselor" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CGuidanceCounselor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Management" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAggDAgACAAAAACAAAAAAAQQAAAAAAICAAAABAAQI=</HashCode>
+      <FileName>Management.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
